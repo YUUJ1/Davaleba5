@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182359031426",
+    "project_id": "davaleba-5-63c3c",
+    "storage_bucket": "davaleba-5-63c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182359031426:android:6a76beff9a0f904f67fe9b",
+        "android_client_info": {
+          "package_name": "com.example.a5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182359031426-jcslj8mr5f6r0ppro03jheaac3il3453.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ6EocI8HUqWUHKQlYe8Zy76cMQzkyP-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182359031426-jcslj8mr5f6r0ppro03jheaac3il3453.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
